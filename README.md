@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning Raylib.
 - 📫 How to reach me aly.kazani52@gmail.com
 - ⚡ Fun fact: Made a TimerWidget site.
-![](https://stream-timer-widget.vercel.app/)
+
+![Timer Site](https://stream-timer-widget.vercel.app/)
 
 ![Aly's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlyKazani04&theme=dark&show_icons=true)
 
