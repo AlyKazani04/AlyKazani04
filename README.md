@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @AlyKazani04
 - 👀 I’m interested in Astrophysics, Coding, Manhwas and Lightnovels.
-- 🌱 I’m currently learning C/C++,HTML/CSS,JS.
+- 🌱 I’m currently learning Raylib.
 - 📫 How to reach me aly.kazani52@gmail.com
-- ⚡ Fun fact: Made a working Snake Game in C.
+- ⚡ Fun fact: Made a TimerWidget site.
+![TImer Site](https://stream-timer-widget.vercel.app/)
 
 ![Aly's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlyKazani04&theme=dark&show_icons=true)
 
