@@ -6,7 +6,7 @@
 
 [Timer Widget](https://stream-timer-widget.vercel.app/)
 
-![Aly's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlyKazani04&theme=dark&show_icons=true)
+![Aly's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlyKazani04&show_icons=true&theme=dark)
 
 <!---
 AlyKazani04/AlyKazani04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
