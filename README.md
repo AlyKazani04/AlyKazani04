@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AlyKazani04
 - 👀 I’m interested in Astrophysics, Coding, Manhwas and Lightnovels.
 - 🌱 I’m currently learning C++.
-- 📫 How to reach me aly.kazani52@gmail.com
+- 📫 How to reach me: aly.kazani52@gmail.com
 - ⚡ Fun fact: Made a TimerWidget site.
 
 [Timer Widget](https://stream-timer-widget.vercel.app/)
