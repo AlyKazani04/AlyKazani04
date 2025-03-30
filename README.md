@@ -2,7 +2,7 @@
 - 👀 I’m interested in Astrophysics, Coding, Manhwas and Lightnovels.
 - 🌱 I’m currently learning C++.
 - 📫 How to reach me: aly.kazani52@gmail.com
-- ⚡ Fun fact: Working on Pong in Raylib(C).
+- ⚡ Fun fact: Working on Object-Oriented Game in C++, using SFML 3.0.
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
