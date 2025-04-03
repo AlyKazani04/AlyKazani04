@@ -13,10 +13,6 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 
-
-![Aly's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlyKazani04&show_icons=true&theme=dark)
-
-![AlyKazani04's Streak](https://github-readme-streak-stats.herokuapp.com/?user=AlyKazani04&theme=dark&hide_border=false)
 <!---
 AlyKazani04/AlyKazani04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
