@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AlyKazani04
-- 👀 I’m interested in Astrophysics, Coding, Manhwas and Lightnovels.
+- 👀 I’m interested in Game Development, Manhwas and Lightnovels.
 - 🌱 I’m currently learning C++.
 - 📫 How to reach me: aly.kazani52@gmail.com
 - ⚡ Fun fact: Working on Object-Oriented Game in C++, using SFML 3.0.
@@ -13,6 +13,9 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 
+[![Aly's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlyKazani04&rank_icon=github&show_icons=true&theme=dark#gh-dark-mode-only&cache_seconds=21600)]
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlyKazani04&exclude_repo=github-readme-stats&layout=compact&langs_count=3&theme=dark#gh-dark-mode-only,anuraghazra.github.io)
 <!---
 AlyKazani04/AlyKazani04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
