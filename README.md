@@ -14,7 +14,7 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 
-[![Aly's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlyKazani04&rank_icon=github&show_icons=true&theme=dark#gh-dark-mode-only&cache_seconds=21600)]
+![Aly's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlyKazani04&rank_icon=github&show_icons=true&theme=dark#gh-dark-mode-only&cache_seconds=21600)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlyKazani04&exclude_repo=github-readme-stats&layout=compact&langs_count=3&theme=dark#gh-dark-mode-only,anuraghazra.github.io)
 <!---
