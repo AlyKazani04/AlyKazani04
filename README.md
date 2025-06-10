@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Cmake and Git.
 - 📫 How to reach me: aly.kazani52@gmail.com
 - 🛠️ Currently Developing: Cleaning code for Final Standoff
-- ⚡ Fun fact:  Just Made an Object-Oriented Game in C++, using SFML 3.0.  -> [Final Standoff](https://github.com/AlyKazani04/FinalStandoff)
+- ⚡ Fun fact:  Just Made a fun, little project in C++, using SFML 3.0  -> [Yin Yang - Simulator](https://github.com/AlyKazani04/YinYang)
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
