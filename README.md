@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @AlyKazani04
 - 👀 I’m interested in Software/Game Development, Manhwas and Lightnovels.
-- 🌱 I’m currently learning Cmake and Git.
+- 🌱 I’m currently learning Git.
 - 📫 How to reach me: aly.kazani52@gmail.com
-- 🛠️ Currently Developing: Cleaning code for Final Standoff
-- ⚡ Fun fact:  Just Made a fun, little project in C++, using SFML 3.0  -> [Yin Yang - Simulator](https://github.com/AlyKazani04/YinYang)
+- 🛠️ Currently Developing: A simple, terminal-based CGPA Calculator in C++.
+- ⚡ Fun fact:  Made a fun, little project in C++, using SFML 3.0  -> [Yin Yang - Simulator](https://github.com/AlyKazani04/YinYang)
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
