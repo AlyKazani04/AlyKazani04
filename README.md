@@ -2,8 +2,8 @@
 - 👀 I’m interested in Software/Game Development, Manhwas and Lightnovels.
 - 🌱 I’m currently learning Git.
 - 📫 How to reach me: aly.kazani52@gmail.com
-- 🛠️ Currently Developing: A simple, terminal-based CGPA Calculator in C++.
-- ⚡ Fun fact:  Made a fun, little project in C++, using SFML 3.0  -> [Yin Yang - Simulator](https://github.com/AlyKazani04/YinYang)
+- 🛠️ Currently Developing: A simple Sudoku Solver in C++.
+- ⚡ Fun fact:  Made a fun, little project in C++, using SFML 3.0 -> [Yin Yang - Simulator](https://github.com/AlyKazani04/YinYang)
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -18,7 +18,3 @@
 ![Aly's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlyKazani04&rank_icon=github&show_icons=true&theme=dark#gh-dark-mode-only&cache_seconds=21600)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlyKazani04&exclude_repo=github-readme-stats&layout=compact&langs_count=3&theme=dark#gh-dark-mode-only,anuraghazra.github.io)
-<!---
-AlyKazani04/AlyKazani04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
