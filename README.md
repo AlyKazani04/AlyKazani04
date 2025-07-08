@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software/Game Development, Manhwas and Lightnovels.
 - 🌱 I’m currently learning Git.
 - 📫 How to reach me: aly.kazani52@gmail.com
-- 🛠️ Currently Developing: A simple Sudoku Solver in C++.
+- 🛠️ Currently Developing: A Sudoku Solver in C++, using SFML.
 - ⚡ Fun fact:  Made a fun, little project in C++, using SFML 3.0 -> [Yin Yang - Simulator](https://github.com/AlyKazani04/YinYang)
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
