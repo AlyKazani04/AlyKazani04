@@ -5,6 +5,7 @@
 - 🛠️ Currently Developing: --
 - ⚡ Fun fact:  Made a fun, little project in C++, using SFML 3.0 -> [Yin Yang - Simulator](https://github.com/AlyKazani04/YinYang)
 
+## Tech Stack
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![RayLib](https://img.shields.io/badge/RAYLIB-FFFFFF?style=for-the-badge&logo=raylib&logoColor=black)
@@ -15,6 +16,12 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 
+## Future Stack
+![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
+![GDScript](https://img.shields.io/badge/GDScript-%2374267B.svg?style=for-the-badge&logo=godotengine&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
+## Stats
 ![Aly's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlyKazani04&rank_icon=github&show_icons=true&theme=dark#gh-dark-mode-only&cache_seconds=21600)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlyKazani04&exclude_repo=github-readme-stats&layout=compact&langs_count=3&theme=dark#gh-dark-mode-only,anuraghazra.github.io)
