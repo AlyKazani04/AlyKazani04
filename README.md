@@ -2,7 +2,7 @@
 - 👀 I’m interested in Back-end/Game Development, Manhwas and LightNovels.
 - 🌱 I’m currently learning Lua and ASM.
 - 📫 How to reach me: aly.kazani52@gmail.com
-- 🛠️ Currently Developing: LAN-based Cooperative Paint App in C++.
+- 🛠️ Currently Developing: LAN-based Collaborative Paint App in C++.
 - ⚡ Fun fact:  Made a fun, little project in C++, using SFML 3.0 -> [Yin Yang - Simulator](https://github.com/AlyKazani04/YinYang)
 
 ## Tech Stack
