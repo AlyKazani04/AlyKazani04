@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AlyKazani04
-- 👀 I’m interested in Back-end/Game Development, Manhwas and LightNovels.
+- 👀 I’m interested in Game Development, Manhwas and LightNovels.
 - 🌱 I’m currently learning Lua and ASM.
 - 📫 How to reach me: aly.kazani52@gmail.com
 - 🛠️ Currently Developing: LAN-based Collaborative Paint App in C++.
