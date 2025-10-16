@@ -24,4 +24,4 @@
 ## Stats
 ![Aly's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlyKazani04&rank_icon=github&show_icons=true&theme=dark#gh-dark-mode-only&cache_seconds=21600)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlyKazani04&exclude_repo=github-readme-stats&layout=compact&langs_count=3&theme=dark#gh-dark-mode-only,anuraghazra.github.io)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlyKazani04&exclude_repo=github-readme-stats&layout=compact&langs_count=5&theme=dark#gh-dark-mode-only,anuraghazra.github.io)
