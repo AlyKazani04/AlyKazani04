@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @AlyKazani04
-- 👀 I’m interested in Game Development, Manhwas and LightNovels.
-- 🌱 I’m currently learning Lua, JS and ASM.
+- 👀 I’m interested in GameDev and LightNovels.
+- 🌱 I’m currently learning Lua and JS.
 - 📫 How to reach me: aly.kazani52@gmail.com
 - 🛠️ Currently Developing: Algorithm Visualizer App in C++. -> [AlgoViewer](https://github.com/AlyKazani04/AlgoViewer)
-- ⚡ Fun fact:  Made a fun, little project in C++, using SFML 3.0 -> [Yin Yang - Simulator](https://github.com/AlyKazani04/YinYang)
+- ⚡ Fun fact:  Made a fun, little simulation. -> [Yin Yang - Simulator](https://github.com/AlyKazani04/YinYang)
 
 ## Tech Stack
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
