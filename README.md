@@ -41,4 +41,4 @@
 ## Stats
 ![Aly's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlyKazani04&exclude_repo=github-readme-stats&hide_border=true&rank_icon=percentile&show_icons=true&theme=highcontrast#gh-dark-mode-only&cache_seconds=21600)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlyKazani04&exclude_repo=github-readme-stats&hide_border=true&layout=compact&langs_count=5&stats_format=bytes&theme=highcontrast#gh-dark-mode-only)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlyKazani04&exclude_repo=github-readme-stats&layout=compact&langs_count=5&stats_format=bytes&theme=highcontrast#gh-dark-mode-only)
