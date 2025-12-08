@@ -3,7 +3,7 @@
 🌱 I’m currently learning Lua and JS. \
 📫 How to reach me: aly.kazani52@gmail.com \
 🛠️ Currently Developing: Algorithm Visualizer App in C++. -> [AlgoViewer](https://github.com/AlyKazani04/AlgoViewer) \
-⚡ Fun fact:  Made a fun, little simulation. -> [Yin Yang - Simulator](https://github.com/AlyKazani04/YinYang)
+⚡ Fun fact:  Finally, made a release for Pong(C). -> [Pong](https://github.com/AlyKazani04/Pong)
 
 ### Social Links
 
