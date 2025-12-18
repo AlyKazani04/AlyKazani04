@@ -1,6 +1,6 @@
 👋 Hi, I’m @AlyKazani04 \
 👀 I’m interested in GameDev and LightNovels. \
-🌱 I’m currently learning Lua, Python and C#. \
+🌱 I’m currently learning Python and C#. \
 📫 How to reach me: aly.kazani52@gmail.com \
 🛠️ Currently Developing: Algorithm Visualizer App in C++. -> [AlgoViewer](https://github.com/AlyKazani04/AlgoViewer) \
 ⚡ Fun fact:  Finally, made a release for Pong(C). -> [Pong](https://github.com/AlyKazani04/Pong)
