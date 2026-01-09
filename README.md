@@ -3,7 +3,7 @@
 🌱 I’m currently learning Python and C#(Unity). \
 📫 How to reach me: aly.kazani52@gmail.com \
 🛠️ Currently Developing: - \
-⚡ Fun fact: Release for my take on Pong is on the way. -> [Pong](https://github.com/AlyKazani04/Pong)
+⚡ Fun fact: Release for my take on Pong is here. -> [Pong](https://github.com/AlyKazani04/Pong)
 
 ### Social Links
 
