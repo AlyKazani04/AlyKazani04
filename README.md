@@ -2,8 +2,8 @@
 👀 I’m interested in GameDev and LightNovels. \
 🌱 I’m currently learning Python and C#(Unity). \
 📫 How to reach me: aly.kazani52@gmail.com \
-🛠️ Currently Developing: - \
-⚡ Fun fact: Release for my take on Pong is here. -> [Pong](https://github.com/AlyKazani04/Pong)
+🛠️ Currently Developing: A real-time, Currency Converter tool in Python \
+⚡ Fun fact: Release for Pong is here. -> [Pong](https://github.com/AlyKazani04/Pong)
 
 ### Social Links
 
