@@ -1,9 +1,9 @@
 👋 Hi, I’m @AlyKazani04 \
-👀 I’m interested in GameDev and LightNovels. \
-🌱 I’m currently learning Python and C#(Unity). \
-📫 How to reach me: aly.kazani52@gmail.com \
-🛠️ Currently Developing: A real-time, Currency Converter tool in Python \
-⚡ Fun fact: Release for Pong is here. -> [Pong](https://github.com/AlyKazani04/Pong)
+👀 I’m interested in GameDev and Cultivation Novels. \
+🌱 I’m currently learning SQL, Python and C#(Unity). \
+📫 How to reach me: aly.kazani52@gmail.com | or dm me on LinkedIn, link below v \
+🛠️ Currently Developing: A Currency Converter tool in Python \
+⚡ Fun fact: My favorite music artist is EVE.
 
 ### Social Links
 
@@ -34,7 +34,6 @@
 ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
 
 ---
 
