@@ -1,9 +1,11 @@
 👋 Hi, I’m @AlyKazani04 \
 👀 I’m interested in GameDev and Cultivation Novels. \
 🌱 I’m currently learning: Shell Scripting, SQL, Python and C#(Unity). \
-📫 How to reach me: aly.kazani52@gmail.com | or dm me on LinkedIn, link below v \
+📫 How to reach me: aly.kazani52@gmail.com | dm me on LinkedIn, link below v \
 🛠️ Currently Developing: Currency Converter tool | Inventory Management System \
 ⚡ Fun fact: My favorite music artist is EVE.
+
+---
 
 ### Social Links
 
@@ -12,7 +14,9 @@
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/Pn9xAxaNvw/)
 [![StackOverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/32258482/aly)
 
-## Tech Stack
+<h2 align="center">
+Tech Stack
+</h2>
 
 ### Languages
 
@@ -35,16 +39,17 @@
 
 ### Tools
 
-
 ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
----
 
-## Stats
+<h2 align="center">
+Stats
+</h2>
+
 ![Aly's GitHub stats](https://github-readme-stats-xi-puce-90.vercel.app/api?username=AlyKazani04&hide_border=true&rank_icon=percentile&show_icons=true&theme=highcontrast#gh-dark-mode-only&cache_seconds=21600)
 
 ![Top Langs](https://github-readme-stats-xi-puce-90.vercel.app/api/top-langs/?username=AlyKazani04&hide_border=true&layout=compact&langs_count=5&stats_format=bytes&theme=highcontrast#gh-dark-mode-only)
