@@ -1,8 +1,8 @@
 👋 Hi, I’m @AlyKazani04 \
 👀 I’m interested in GameDev and Cultivation Novels. \
-🌱 I’m currently learning: Neovim, Shell Scripting, SQL, Python and C#(Unity). \
+🌱 I’m currently learning: Shell Scripting, SQL, Python and C#(Unity). \
 📫 How to reach me: aly.kazani52@gmail.com | dm me on LinkedIn, link below v \
-🛠️ Currently Developing: Currency Converter tool | Inventory Management System \
+🛠️ Currently Developing: Currency Converter tool \
 ⚡ Fun fact: My favorite music artist is EVE.
 
 ---
@@ -41,7 +41,7 @@ Tech Stack
 
 ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
-![NeoVim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
+![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
 ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
