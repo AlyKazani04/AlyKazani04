@@ -2,7 +2,7 @@
 👀 I’m interested in GameDev and Cultivation Novels. \
 🌱 I’m currently learning: Shell Scripting, SQL, Python and C#(Unity). \
 📫 How to reach me: aly.kazani52@gmail.com | dm me on LinkedIn, link below v \
-🛠️ Currently Developing: Currency Converter tool \
+🛠️ Currently Developing: - \
 ⚡ Fun fact: My favorite music artist is EVE.
 
 ---
