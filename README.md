@@ -1,15 +1,15 @@
 👋 Hi, I’m @AlyKazani04
 
-👀 I’m interested in GameDev and Cultivation Novels.
+👀 I’m interested in GameDev, Novels and Low-level Dev.
 
 🌱 I’m currently learning: Shell Scripting, SQL, Python and C#(Unity).
 
 <p>📫 How to reach me: aly.kazani52@gmail.com | dm me on LinkedIn, link below v</p> 
 🛠️ Currently Developing:
 
-* OS-level Multi-Threaded Chatrooms
+* [Angry Bird Clone with custom sprites](https://github.com/AlyKazani04/open-shot)
+* [OS-level Multi-Threaded Chatrooms](https://github.com/AlyKazani04/Multi-threaded-Chat-Rooms)
 * AI Resume Analyzer
-* Angry Bird Clone with custom sprites
 
 ⚡ Fun fact: My favorite music artist is EVE.
 
