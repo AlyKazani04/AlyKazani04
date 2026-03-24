@@ -9,7 +9,7 @@
 
 * [Angry Bird Clone with custom sprites](https://github.com/AlyKazani04/open-shot)
 * [OS-level Multi-Threaded Chatrooms](https://github.com/AlyKazani04/Multi-threaded-Chat-Rooms)
-* AI Resume Analyzer
+* [AI Resume Analyzer](https://github.com/AlyKazani04/AI-Resume-Analyzer)
 
 ⚡ Fun fact: My favorite music artist is EVE.
 
