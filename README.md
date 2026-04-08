@@ -1,6 +1,6 @@
 👋 Hi, I’m @AlyKazani04
 
-👀 I’m interested in GameDev, Novels and Low-level Dev.
+👀 I’m interested in GameDev, Novels and Backend Dev.
 
 🌱 I’m currently learning: Shell Scripting, SQL, Python and C#(Unity).
 
