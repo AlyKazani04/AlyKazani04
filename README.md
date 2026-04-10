@@ -2,7 +2,7 @@
 
 👀 I’m interested in GameDev, Novels and Backend Dev.
 
-🌱 I’m currently learning: Shell Scripting, SQL, Python and C#(Unity).
+🌱 I’m currently learning: Shell Scripting, SQL and Python.
 
 <p>📫 How to reach me: aly.kazani52@gmail.com | dm me on LinkedIn, link below v</p> 
 🛠️ Currently Developing:
@@ -30,7 +30,6 @@ Tech Stack
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
