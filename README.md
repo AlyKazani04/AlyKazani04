@@ -1,14 +1,13 @@
 👋 Hi, I’m @AlyKazani04
 
-👀 I’m interested in GameDev, Novels and Backend Dev.
+👀 I’m interested in Backend Dev, Novels and GameDev.
 
-🌱 I’m currently learning: Shell Scripting, SQL and Python.
+🌱 I’m currently learning: SQL and Python.
 
 <p>📫 How to reach me: aly.kazani52@gmail.com | dm me on LinkedIn, link below v</p> 
 🛠️ Currently Developing:
 
-* [Angry Bird Clone with custom sprites](https://github.com/AlyKazani04/open-shot)
-* [OS-level Multi-Threaded Chatrooms](https://github.com/AlyKazani04/Multi-threaded-Chat-Rooms)
+* [Multi-Threaded Chatrooms Simulation](https://github.com/AlyKazani04/Multi-threaded-Chat-Rooms)
 * [AI Resume Analyzer](https://github.com/AlyKazani04/AI-Resume-Analyzer)
 
 ⚡ Fun fact: My favorite music artist is EVE.
@@ -21,6 +20,7 @@
 [![Itch](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://alykazani04.itch.io/)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/Pn9xAxaNvw/)
 [![StackOverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/32258482/aly)
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/AlyKazani04/)
 
 <h2 align="center">
 Tech Stack
@@ -43,6 +43,9 @@ Tech Stack
 ![RayLib](https://img.shields.io/badge/RAYLIB-FFFFFF?style=for-the-badge&logo=raylib&logoColor=black)
 ![SFML](https://img.shields.io/badge/SFML-8CC445.svg?style=for-the-badge&logo=SFML&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
+![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
 
 ### Tools
 
@@ -58,6 +61,6 @@ Tech Stack
 Stats
 </h2>
 
-![Aly's GitHub stats](https://github-readme-stats-xi-puce-90.vercel.app/api?username=AlyKazani04&hide_border=true&rank_icon=percentile&show_icons=true&theme=highcontrast#gh-dark-mode-only&cache_seconds=21600)
+![Aly's GitHub stats](https://github-readme-stats-xi-puce-90.vercel.app/api?username=AlyKazani04&rank_icon=percentile&show_icons=true\&hide=prs\&show=reviews,prs_merged\&bg_color=30,010409,333c4d\&title_color=fff\&text_color=fff\#gh-dark-mode-only&include_all_commits=true\&cache_seconds=21600)
 
-![Top Langs](https://github-readme-stats-xi-puce-90.vercel.app/api/top-langs/?username=AlyKazani04&hide_border=true&layout=compact&langs_count=5&stats_format=bytes&theme=highcontrast#gh-dark-mode-only)
+![Top Langs](https://github-readme-stats-xi-puce-90.vercel.app/api/top-langs/?username=AlyKazani04&layout=compact&card_width=320&langs_count=5&stats_format=percentages\&bg_color=30,010409,333c4d\&title_color=fff\&text_color=fff\#gh-dark-mode-only)
