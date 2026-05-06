@@ -63,4 +63,4 @@ Stats
 
 ![Aly's GitHub stats](https://github-readme-stats-xi-puce-90.vercel.app/api?username=AlyKazani04&rank_icon=percentile&show_icons=true\&hide=prs\&show=reviews,prs_merged\&bg_color=30,010409,333c4d\&title_color=fff\&text_color=fff\#gh-dark-mode-only&include_all_commits=true\&cache_seconds=21600)
 
-![Top Langs](https://github-readme-stats-xi-puce-90.vercel.app/api/top-langs/?username=AlyKazani04&layout=compact&card_width=320&langs_count=5&stats_format=percentages\&bg_color=30,010409,333c4d\&title_color=fff\&text_color=fff\#gh-dark-mode-only)
+![Top Langs](https://github-readme-stats-xi-puce-90.vercel.app/api/top-langs/?username=AlyKazani04&layout=compact&card_width=320&langs_count=5&stats_format=percentages\&bg_color=30,010409,333c4d\&title_color=fff\&text_color=fff\#gh-dark-mode-only&cache_seconds=21600)
