@@ -2,15 +2,15 @@
 
 👀 I’m interested in Backend Dev and Novels.
 
-🌱 I’m currently learning: JS and Python.
+🌱 I’m currently learning: JS.
 
 📫 How to reach me: aly.kazani52@gmail.com | dm me on LinkedIn, link below v
 
 ⚡ Fun fact: My favorite music artist is EVE.
 
 | 🛠️ Currently Developing: |
-| ------------------------ |
-| [![AI Resume Analyzer](https://github-readme-stats-xi-puce-90.vercel.app/api/pin/?username=AlyKazani04&repo=AI-Resume-Analyzer&theme=dark)](https://github.com/AlyKazani04/AI-Resume-Analyzer) | 
+| :------------------------: |
+| - | 
 
 
 ---
