@@ -2,7 +2,7 @@
 
 👀 I’m interested in Backend Dev and Novels.
 
-🌱 I’m currently learning: JS.
+🌱 I’m currently learning: Node.js.
 
 📫 How to reach me: aly.kazani52@gmail.com | dm me on LinkedIn, link below v
 
