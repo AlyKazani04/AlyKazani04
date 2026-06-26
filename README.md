@@ -10,8 +10,8 @@
 
 | 🛠️ Currently Developing: |
 | :------------------------: |
-| - | 
-
+| [![Timer-CLI Card](https://github-readme-stats-xi-puce-90.vercel.app/api/pin/?username=AlyKazani04\&repo=timer-cli&show_owner=true\&bg_color=30,010409,333c4d\&title_color=fff\&text_color=fff\#gh-dark-mode-only)](https://github.com/AlyKazani04/timer-cli) | 
+<!-- Card Format: [![Timer-CLI Card](https://github-readme-stats-xi-puce-90.vercel.app/api/pin/?username=AlyKazani04\&repo=timer-cli&show_owner=true\&bg_color=30,010409,333c4d\&title_color=fff\&text_color=fff\#gh-dark-mode-only)](https://github.com/AlyKazani04/timer-cli) -->
 
 ---
 
@@ -28,12 +28,10 @@
 Tech Stack
 </h2>
 
-<h3 align="center">Systems & Backend</h3>
+<h3 align="center">Games and Graphics</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
 <h3 align="center">Web Dev</h3>
@@ -60,12 +58,14 @@ Tech Stack
   <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white" />
+  <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
 </p>
 
 <h3 align="center">OS & Environment</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Omarchy-9ECE6A.svg?style=for-the-badge&logo=Omarchy&logoColor=black" />
   <img src="https://img.shields.io/badge/Hyprland-00a2ff?style=for-the-badge&logo=hyprland&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
 <h2 align="center">
@@ -75,6 +75,8 @@ Stats
 <div align="center">
 
   ![Aly's GitHub stats](https://github-readme-stats-xi-puce-90.vercel.app/api?username=AlyKazani04&rank_icon=percentile&show_icons=true\&hide=prs\&show=reviews,prs_merged\&bg_color=30,010409,333c4d\&title_color=fff\&text_color=fff\#gh-dark-mode-only&include_all_commits=true)
+  
+  ![GitHub Streak](https://streak-stats.demolab.com/?user=AlyKazani04\&background=30,010409,333c4d\&title_color=fff\&text_color=fff\&currStreakNum=fff&currStreakLabel=fff&sideNums=fff&sideLabels=fff&dates=fff)
   
   ![Top Langs](https://github-readme-stats-xi-puce-90.vercel.app/api/top-langs/?username=AlyKazani04&layout=compact&card_width=320&langs_count=5&stats_format=percentages\&bg_color=30,010409,333c4d\&title_color=fff\&text_color=fff\&hide=Jupyter%20Notebook\#gh-dark-mode-only&cache_second=21600)
 
