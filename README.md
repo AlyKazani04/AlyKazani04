@@ -2,7 +2,7 @@
 
 👀 I’m interested in Backend Dev and Novels.
 
-🌱 I’m currently learning: Backend dev from [master.dev](https://master.dev/).
+🌱 I’m currently learning: Backend dev from [master.dev](https://master.dev/), React.js and TailwindCSS from YT.
 
 📫 How to reach me: aly.kazani52@gmail.com | dm me on LinkedIn, link below v
 
@@ -10,7 +10,7 @@
 
 | 🛠️ Currently Developing: |
 | :------------------------: |
-| [![Timer-CLI Card](https://github-readme-stats-xi-puce-90.vercel.app/api/pin/?username=AlyKazani04\&repo=timer-cli&show_owner=true\&bg_color=30,010409,333c4d\&title_color=fff\&text_color=fff\#gh-dark-mode-only)](https://github.com/AlyKazani04/timer-cli) | 
+| - | 
 <!-- Card Format: [![Timer-CLI Card](https://github-readme-stats-xi-puce-90.vercel.app/api/pin/?username=AlyKazani04\&repo=timer-cli&show_owner=true\&bg_color=30,010409,333c4d\&title_color=fff\&text_color=fff\#gh-dark-mode-only)](https://github.com/AlyKazani04/timer-cli) -->
 
 ---
@@ -28,18 +28,15 @@
 Tech Stack
 </h2>
 
-<h3 align="center">Games and Graphics</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-</p>
-
 <h3 align="center">Web Dev</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
   <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </p>
 
 <h3 align="center"> AI & Data Science </h3>
@@ -57,8 +54,13 @@ Tech Stack
   <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white" />
   <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white" />
   <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+</p>
+
+<h3 align="center">Games and Graphics</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 </p>
 
 <h3 align="center">OS & Environment</h3>
