@@ -2,7 +2,7 @@
 
 👀 I’m interested in Backend Dev and Novels.
 
-🌱 I’m currently learning: Backend dev from [master.dev](https://master.dev/), React.js and TailwindCSS from YT.
+🌱 I’m currently learning: Backend dev from [master.dev](https://master.dev/), React.js and TailwindCSS.
 
 📫 How to reach me: aly.kazani52@gmail.com | dm me on LinkedIn, link below v
 
@@ -30,13 +30,13 @@ Tech Stack
 
 <h3 align="center">Web Dev</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-  <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
 <h3 align="center"> AI & Data Science </h3>
@@ -77,8 +77,8 @@ Stats
 <div align="center">
 
   ![Aly's GitHub stats](https://github-readme-stats-xi-puce-90.vercel.app/api?username=AlyKazani04&rank_icon=percentile&show_icons=true\&hide=prs\&show=reviews,prs_merged\&bg_color=30,010409,333c4d\&title_color=fff\&text_color=fff\#gh-dark-mode-only&include_all_commits=true)
-  
-  ![GitHub Streak](https://streak-stats.demolab.com/?user=AlyKazani04\&background=30,010409,333c4d\&title_color=fff\&text_color=fff\&currStreakNum=fff&currStreakLabel=fff&sideNums=fff&sideLabels=fff&dates=fff)
+
+  ![GitHub Streak](https://github-readme-streak-stats-ashen.vercel.app?user=AlyKazani04&theme=dark&border_radius=5.5&background=30%2C010409%2C333C4D)
   
   ![Top Langs](https://github-readme-stats-xi-puce-90.vercel.app/api/top-langs/?username=AlyKazani04&layout=compact&card_width=320&langs_count=5&stats_format=percentages\&bg_color=30,010409,333c4d\&title_color=fff\&text_color=fff\&hide=Jupyter%20Notebook\#gh-dark-mode-only&cache_second=21600)
 
