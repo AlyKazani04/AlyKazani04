@@ -11,6 +11,7 @@
 | 🛠️ Currently Developing: |
 | :------------------------: |
 | [![FullStack Notes App Card](https://github-readme-stats-xi-puce-90.vercel.app/api/pin/?username=AlyKazani04\&repo=notes-fullstack&show_owner=true\&bg_color=30,010409,333c4d\&title_color=fff\&text_color=fff\#gh-dark-mode-only)](https://github.com/AlyKazani04/notes-fullstack) | 
+| [![React Practice App Card](https://github-readme-stats-xi-puce-90.vercel.app/api/pin/?username=AlyKazani04\&repo=react-practice&show_owner=true\&bg_color=30,010409,333c4d\&title_color=fff\&text_color=fff\#gh-dark-mode-only)](https://github.com/AlyKazani04/react-practice) | 
 <!-- Card Format: [![Timer-CLI Card](https://github-readme-stats-xi-puce-90.vercel.app/api/pin/?username=AlyKazani04\&repo=timer-cli&show_owner=true\&bg_color=30,010409,333c4d\&title_color=fff\&text_color=fff\#gh-dark-mode-only)](https://github.com/AlyKazani04/timer-cli) -->
 
 ---
