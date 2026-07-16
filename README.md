@@ -1,36 +1,40 @@
-👋 Hi, I’m @AlyKazani04
+# 👋 Hi, I’m @AlyKazani04
 
-👀 I’m interested in Backend Dev and Novels.
+<Stuff About Me Here>
 
-🌱 I’m currently learning: Backend dev from [master.dev](https://master.dev/), React.js and TailwindCSS.
+- 👀 **Interests:** Backend Software Development & reading novels.
+- 🌱 **Currently Learning:** Backend development from [master.dev](https://master.dev/), React.js and TailwindCSS.
+- 📫 **Reach me:** [aly.kazani52@gmail.com](mailto:aly.kazani52@gmail.com) | dm me on LinkedIn, link below v
+- ⚡  **Fun fact:** My favorite music artist is EVE.
 
-📫 How to reach me: aly.kazani52@gmail.com | dm me on LinkedIn, link below v
-
-⚡ Fun fact: My favorite music artist is EVE.
-
-| 🛠️ Currently Developing: |
-| :------------------------: |
-| [![FullStack Notes App Card](https://github-readme-stats-xi-puce-90.vercel.app/api/pin/?username=AlyKazani04\&repo=notes-fullstack&show_owner=true\&bg_color=30,010409,333c4d\&title_color=fff\&text_color=fff\#gh-dark-mode-only)](https://github.com/AlyKazani04/notes-fullstack) | 
-| [![Movie Finder App Card](https://github-readme-stats-xi-puce-90.vercel.app/api/pin/?username=AlyKazani04\&repo=react-practice&show_owner=true\&bg_color=30,010409,333c4d\&title_color=fff\&text_color=fff\#gh-dark-mode-only)](https://github.com/AlyKazani04/react-practice) | 
-<!-- Card Format: [![Timer-CLI Card](https://github-readme-stats-xi-puce-90.vercel.app/api/pin/?username=AlyKazani04\&repo=timer-cli&show_owner=true\&bg_color=30,010409,333c4d\&title_color=fff\&text_color=fff\#gh-dark-mode-only)](https://github.com/AlyKazani04/timer-cli) -->
+### Socials & Links 
+<p align="left">
+<a href="https://www.linkedin.com/in/aly-kazani/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" /></a>
+<a href="https://alykazani04.itch.io/"><img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=flat&logo=itchdotio&logoColor=white" /></a>
+<a href="https://leetcode.com/u/Pn9xAxaNvw/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=black" /></a>
+<a href="https://stackoverflow.com/users/32258482/aly"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white" /></a>
+<a href="https://www.reddit.com/user/AlyKazani04/"><img src="https://img.shields.io/badge/Reddit-FF4500?style=flat&logo=reddit&logoColor=white" /></a>
+</p>
 
 ---
 
-<h3 align="center"> Social Links </h3>
-<p align="center">
-<a href="https://www.linkedin.com/in/aly-kazani/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://alykazani04.itch.io/"><img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" /></a>
-<a href="https://leetcode.com/u/Pn9xAxaNvw/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /></a>
-<a href="https://stackoverflow.com/users/32258482/aly"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" /></a>
-<a href="https://www.reddit.com/user/AlyKazani04/"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" /></a>
+### 💻️ Currently Developing
+<p align="left">
+  <a href="https://github.com/AlyKazani04/notes-fullstack">
+    <img src="https://github-readme-stats-xi-puce-90.vercel.app/api/pin/?username=AlyKazani04\&repo=notes-fullstack\&bg_color=30,010409,333c4d\&title_color=fff\&text_color=fff\#gh-dark-mode-only" height="120" />
+  </a>
+  <a href="https://github.com/AlyKazani04/react-practice">
+    <img src="https://github-readme-stats-xi-puce-90.vercel.app/api/pin/?username=AlyKazani04\&repo=react-practice\&bg_color=30,010409,333c4d\&title_color=fff\&text_color=fff\#gh-dark-mode-only" height="120" />
+  </a>  
 </p>
+<!-- Card Format: [![Timer-CLI Card](https://github-readme-stats-xi-puce-90.vercel.app/api/pin/?username=AlyKazani04\&repo=timer-cli\&bg_color=30,010409,333c4d\&title_color=fff\&text_color=fff\#gh-dark-mode-only)](https://github.com/AlyKazani04/timer-cli) -->
 
-<h2 align="center">
-Tech Stack
-</h2>
+---
 
-<h3 align="center">Web Dev</h3>
-<p align="center">
+### 🛠️ Tech Stack & Toolkit
+
+#### **Backend & Web Development**
+<p>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white" />
@@ -40,8 +44,8 @@ Tech Stack
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
-<h3 align="center"> AI & Data Science </h3>
-<p align="center">
+<h3> AI & Data Science </h3>
+<p>
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
   <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />
