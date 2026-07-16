@@ -7,7 +7,7 @@ I am a 3rd year Comp-Sci student at FAST-NUCES, Karachi. I love learning new thi
 - 📫 **Reach me:** [aly.kazani52@gmail.com](mailto:aly.kazani52@gmail.com) | [LinkedIn](https://www.linkedin.com/in/aly-kazani/)
 - ⚡  **Fun fact:** My favorite music artist is EVE.
 
-### Socials & Links 
+### 🔗 Socials & Links 
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aly-kazani/)
 [![StackOverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/32258482/aly)
@@ -69,7 +69,7 @@ I am a 3rd year Comp-Sci student at FAST-NUCES, Karachi. I love learning new thi
   <img src="https://img.shields.io/badge/Shell_Script-121011?style=flat&logo=gnu-bash&logoColor=white" />
 </p>
 
-## Stats
+## 📊 Stats
 
 <p align="center">
   <img src="https://github-readme-stats-xi-puce-90.vercel.app/api?username=AlyKazani04&rank_icon=percentile&show_icons=true&hide=prs&show=reviews,prs_merged&theme=nord&include_all_commits=true&border_radius=8&cache_seconds=21600" height="165px" />
