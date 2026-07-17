@@ -71,11 +71,11 @@ I am a 3rd year Comp-Sci student at FAST-NUCES, Karachi. I love learning new thi
 
 ## 📊 Stats
 
-<p align="center">
-  <img src="https://github-readme-stats-xi-puce-90.vercel.app/api?username=AlyKazani04&rank_icon=percentile&show_icons=true&hide=prs&show=reviews,prs_merged&theme=nord&include_all_commits=true&border_radius=8&cache_seconds=21600" height="165px" />
-  <img src="https://github-readme-stats-xi-puce-90.vercel.app/api/top-langs/?username=AlyKazani04&layout=compact&langs_count=5&stats_format=percentages&theme=nord&hide=Jupyter%20Notebook,php&border_radius=6&cache_seconds=21600" height="170px" />
+<p align="center" width="80%">
+  <img src="https://github-readme-stats-xi-puce-90.vercel.app/api?username=AlyKazani04&rank_icon=percentile&show_icons=true&hide=prs&show=reviews,prs_merged&theme=nord&include_all_commits=true&border_radius=8&cache_seconds=21600" />
+  <img src="https://github-readme-stats-xi-puce-90.vercel.app/api/top-langs/?username=AlyKazani04&layout=compact&langs_count=5&stats_format=percentages&theme=nord&hide=Jupyter%20Notebook,php&border_radius=6&cache_seconds=21600" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats-ashen.vercel.app?user=AlyKazani04&theme=nord&border_radius=5.5" width="65%" />
+  <img src="https://github-readme-streak-stats-ashen.vercel.app?user=AlyKazani04&theme=nord&border_radius=5.5" width="80%" />
 </p>
