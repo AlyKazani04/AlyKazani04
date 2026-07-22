@@ -5,9 +5,9 @@ I am a 3rd year Comp-Sci student at FAST-NUCES, Karachi. I love learning new thi
 - 👀 **Interests:** Backend Software Development & reading webnovels.
 - 🌱 **Currently Learning:** Backend development from [master.dev](https://master.dev/), React.js and TailwindCSS.
 - 📫 **Reach me:** [aly.kazani52@gmail.com](mailto:aly.kazani52@gmail.com) | [LinkedIn](https://www.linkedin.com/in/aly-kazani/)
-- ⚡  **Fun fact:** My favorite music artist is EVE.
+- ⚡ **Fun fact:** My favorite music artist is EVE.
 
-### 🔗 Socials & Links 
+### 🔗 Socials & Links
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aly-kazani/)
 [![StackOverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/32258482/aly)
@@ -21,11 +21,8 @@ I am a 3rd year Comp-Sci student at FAST-NUCES, Karachi. I love learning new thi
 
 <p align="left">
   <a href="https://github.com/AlyKazani04/notes-fullstack">
-    <img src="https://github-readme-stats-xi-puce-90.vercel.app/api/pin/?username=AlyKazani04&repo=notes-fullstack&theme=nord#gh-dark-mode-only" height="120" />
+    <img src="profile/notes-fullstack.svg" height="120" />
   </a>
-  <a href="https://github.com/AlyKazani04/react-practice">
-    <img src="https://github-readme-stats-xi-puce-90.vercel.app/api/pin/?username=AlyKazani04&repo=react-practice&theme=nord#gh-dark-mode-only" height="120" />
-  </a>  
 </p>
 <!-- Card Format: [![Timer-CLI Card](https://github-readme-stats-xi-puce-90.vercel.app/api/pin/?username=AlyKazani04\&repo=timer-cli\&bg_color=30,010409,333c4d\&title_color=fff\&text_color=fff\#gh-dark-mode-only)](https://github.com/AlyKazani04/timer-cli) -->
 
@@ -34,6 +31,7 @@ I am a 3rd year Comp-Sci student at FAST-NUCES, Karachi. I love learning new thi
 ### 🛠️ Technical Skills
 
 ### Languages
+
 <p>
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white" />
@@ -43,6 +41,7 @@ I am a 3rd year Comp-Sci student at FAST-NUCES, Karachi. I love learning new thi
 </p>
 
 ### Frameworks and Tools
+
 <p>
   <img src="https://img.shields.io/badge/Node%20js-339933?style=flat&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Express%20js-000000?style=flat&logo=express&logoColor=white" />
@@ -55,6 +54,7 @@ I am a 3rd year Comp-Sci student at FAST-NUCES, Karachi. I love learning new thi
 </p>
 
 ### Databases
+
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white" />
@@ -62,6 +62,7 @@ I am a 3rd year Comp-Sci student at FAST-NUCES, Karachi. I love learning new thi
 </p>
 
 ### OS & Environment
+
 <p>
   <img src="https://img.shields.io/badge/Omarchy-9ECE6A.svg?style=flat&logo=Omarchy&logoColor=black" />
   <img src="https://img.shields.io/badge/Hyprland-00a2ff?style=flat&logo=hyprland&logoColor=white" />
@@ -72,8 +73,8 @@ I am a 3rd year Comp-Sci student at FAST-NUCES, Karachi. I love learning new thi
 ## 📊 Stats
 
 <p align="center" width="80%">
-  <img src="https://github-readme-stats-xi-puce-90.vercel.app/api?username=AlyKazani04&rank_icon=percentile&show_icons=true&hide=prs&show=reviews,prs_merged&theme=nord&include_all_commits=true&border_radius=8&cache_seconds=21600" />
-  <img src="https://github-readme-stats-xi-puce-90.vercel.app/api/top-langs/?username=AlyKazani04&layout=compact&langs_count=5&stats_format=percentages&theme=nord&hide=Jupyter%20Notebook,php&border_radius=6&cache_seconds=21600" />
+  <img src="profile/stats.svg" />
+  <img src="profile/top-langs.svg" />
 </p>
 
 <p align="center">

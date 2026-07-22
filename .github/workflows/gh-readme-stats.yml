@@ -1,0 +1,50 @@
+name: Update README cards
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Runs once daily at midnight
+  workflow_dispatch:
+  push:
+    paths:
+      - '.github/workflows/gh_readme-stats.yml'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v6
+
+      - name: Generate stats card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: username=AlyKazani04&rank_icon=percentile&show_icons=true&hide=prs&show=reviews,prs_merged&theme=nord&include_all_commits=true&border_radius=8
+          path: profile/stats.svg
+          token: ${{ secrets.PAT_TOKEN }}
+
+      - name: Generate top languages card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: username=AlyKazani04&layout=compact&langs_count=5&stats_format=percentages&theme=nord&hide=Jupyter%20Notebook,php&border_radius=6
+          path: profile/top-langs.svg
+          token: ${{ secrets.PAT_TOKEN }}
+
+      - name: Generate notes-fullstack pin card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=AlyKazani04&repo=notes-fullstack&theme=nord
+          path: profile/notes-fullstack.svg
+          token: ${{ secrets.PAT_TOKEN }}
+
+      - name: Commit cards
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/*.svg
+          git diff --staged --quiet || (git commit -m "chore: update README cards [skip ci]" && git push)
