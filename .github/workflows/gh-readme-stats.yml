@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
   push:
     paths:
-      - '.github/workflows/gh_readme-stats.yml'
+      - '.github/workflows/gh-readme-stats.yml'
 
 jobs:
   build:
