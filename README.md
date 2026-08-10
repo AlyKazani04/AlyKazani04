@@ -22,6 +22,8 @@ I am a 3rd year Comp-Sci student at FAST-NUCES, Karachi. I love learning new thi
 <p align="center">
   <a href="https://github.com/AlyKazani04/notes-fullstack">
     <img src="profile/notes-fullstack.svg" height="120" />
+  </a>
+  <a href="https://github.com/AlyKazani04/alykazani04.github.io">
     <img src="profile/portfolio-site-repo.svg" height="120" />
   </a>
 </p>
