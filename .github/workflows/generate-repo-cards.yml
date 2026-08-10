@@ -1,0 +1,32 @@
+name: Update README Repo cards
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - '.github/workflows/generate-repo-cards.yml'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v6
+      
+      - name: Generate notes-fullstack pin card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=AlyKazani04&repo=notes-fullstack&theme=nord
+          path: profile/notes-fullstack.svg
+          token: ${{ secrets.PAT_TOKEN }}
+            
+      - name: Generate portfolio site pin card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=AlyKazani04&repo=alykazani04.github.io&theme=nord
+          path: profile/portfolio-site-repo.svg
+          token: ${{ secrets.PAT_TOKEN }}
