@@ -80,5 +80,5 @@ I am a 3rd year Comp-Sci student at FAST-NUCES, Karachi. I love learning new thi
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats-ashen.vercel.app?user=AlyKazani04&theme=nord&border_radius=5.5" width="70%" />
+  <img src="https://github-readme-streak-stats-ashen.vercel.app?user=AlyKazani04&theme=nord&border_radius=5.5" />
 </p>
