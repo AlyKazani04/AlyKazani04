@@ -14,15 +14,15 @@ jobs:
       contents: write
     steps:
       - uses: actions/checkout@v6
-      
-      - name: Generate notes-fullstack pin card
-        uses: stats-organization/github-readme-stats-action@v2
-        with:
-          card: pin
-          options: username=AlyKazani04&repo=notes-fullstack&theme=nord
-          path: profile/notes-fullstack.svg
-          token: ${{ secrets.PAT_TOKEN }}
-            
+
+      # - name: Generate notes-fullstack pin card
+      #   uses: stats-organization/github-readme-stats-action@v2
+      #   with:
+      #     card: pin
+      #     options: username=AlyKazani04&repo=notes-fullstack&theme=nord
+      #     path: profile/notes-fullstack.svg
+      #     token: ${{ secrets.PAT_TOKEN }}
+      #
       - name: Generate portfolio site pin card
         uses: stats-organization/github-readme-stats-action@v2
         with:
