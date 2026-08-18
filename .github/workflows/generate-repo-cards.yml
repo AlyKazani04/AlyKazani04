@@ -31,6 +31,14 @@ jobs:
           path: profile/portfolio-site-repo.svg
           token: ${{ secrets.PAT_TOKEN }}
 
+      - name: Generate OhMyNewTabPage Repo pin card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=AlyKazani04&repo=OhMyNewTabPage&theme=nord
+          path: profile/new-tab-repo.svg
+          token: ${{ secrets.PAT_TOKEN }}
+
       - name: Commit newly generated cards
         run: |
           git config user.name "github-actions[bot]"

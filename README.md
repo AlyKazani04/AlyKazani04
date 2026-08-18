@@ -23,6 +23,9 @@ I am a 3rd year Comp-Sci student at FAST-NUCES, Karachi. I love learning new thi
   <a href="https://github.com/AlyKazani04/alykazani04.github.io">
     <img src="profile/portfolio-site-repo.svg" height="120" />
   </a>
+  <a href="https://github.com/AlyKazani04/OhMyNewTabPage">
+    <img src="profile/new-tab-repo.svg" height="120" />
+  </a>
 </p>
 
 ---
