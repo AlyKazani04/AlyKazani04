@@ -19,9 +19,23 @@ I am a 3rd year Comp-Sci student at FAST-NUCES, Karachi. I love learning new thi
 
 ### 💻️ Currently Developing
 
+<!-- Each card below needs THREE matching pieces, or it silently won't show up:
+     1. a "Generate ... pin card" step in .github/workflows/generate-repo-cards.yml
+     2. the matching SVG at profile/<name>-repo.svg
+     3. the <a href> + <img src> pair right here
+     To pause a project, comment out both (1) and (3). Leave the SVG on disk. -->
+
+<!-- PAUSED: portfolio site — work on hold. Uncomment to bring the card back.
 <p align="center">
   <a href="https://github.com/AlyKazani04/alykazani04.github.io">
     <img src="profile/portfolio-site-repo.svg" height="120" />
+  </a>
+</p>
+-->
+
+<p align="center">
+  <a href="https://github.com/AlyKazani04/Lambda">
+    <img src="profile/lambda-repo.svg" height="120" />
   </a>
   <a href="https://github.com/AlyKazani04/OhMyNewTabPage">
     <img src="profile/new-tab-repo.svg" height="120" />

@@ -1,3 +1,30 @@
+# =============================================================================
+# Update README Repo cards (pin cards)
+# -----------------------------------------------------------------------------
+# WHAT THIS DOES
+#   Generates the small "pin" cards shown in the "Currently Developing" section
+#   of README.md, then commits the SVGs back into profile/.
+#
+# HOW A NEW CARD GETS ADDED (3 places must agree)
+#   1. Add a "Generate <repo> pin card" step below.
+#   2. The card writes to profile/<name>-repo.svg  ->  git add profile/*.svg picks it up.
+#   3. Reference profile/<name>-repo.svg in README.md inside the
+#      "Currently Developing" <p align="center"> block, wrapped in an <a href>.
+#   Miss (3) and the SVG is regenerated but never displayed.
+#
+# WHY COMMENTED-OUT STEPS ARE KEPT
+#   To pause a project, comment out BOTH its step here AND its <a>/<img> block in
+#   README.md. The SVG file itself is left on disk so the card comes back instantly
+#   when the project resumes (the step just regenerates it on the next run).
+#
+# TRIGGERS
+#   - manual dispatch (Actions tab -> Run workflow)
+#   - any push that touches THIS file  (so editing a step regenerates immediately)
+#   There is no schedule here on purpose: pin cards only change when a repo's
+#   description/star count does, which is rare enough to not justify a daily run.
+#   The stats/streak cards in gh-readme-stats.yml are the ones that need cron.
+# =============================================================================
+
 name: Update README Repo cards
 
 on:
@@ -10,25 +37,30 @@ jobs:
   build:
     runs-on: ubuntu-latest
 
+    # Required so the workflow can push the generated SVGs back to the repo.
     permissions:
       contents: write
+
     steps:
       - uses: actions/checkout@v6
 
-      # - name: Generate notes-fullstack pin card
+      # --- PAUSED: portfolio site (alykazani04.github.io) ---------------------
+      # Work on the portfolio site is on hold. Commented out here AND in README.md
+      # so the card disappears but nothing is deleted.
+      # - name: Generate portfolio site pin card
       #   uses: stats-organization/github-readme-stats-action@v2
       #   with:
       #     card: pin
-      #     options: username=AlyKazani04&repo=notes-fullstack&theme=nord
-      #     path: profile/notes-fullstack.svg
+      #     options: username=AlyKazani04&repo=alykazani04.github.io&theme=nord
+      #     path: profile/portfolio-site-repo.svg
       #     token: ${{ secrets.PAT_TOKEN }}
-      #
-      - name: Generate portfolio site pin card
+
+      - name: Generate Lambda pin card
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: pin
-          options: username=AlyKazani04&repo=alykazani04.github.io&theme=nord
-          path: profile/portfolio-site-repo.svg
+          options: username=AlyKazani04&repo=Lambda&theme=nord
+          path: profile/lambda-repo.svg
           token: ${{ secrets.PAT_TOKEN }}
 
       - name: Generate OhMyNewTabPage Repo pin card
@@ -39,6 +71,11 @@ jobs:
           path: profile/new-tab-repo.svg
           token: ${{ secrets.PAT_TOKEN }}
 
+      # --- Commit step -------------------------------------------------------
+      # git add profile/*.svg   -> picks up every card in profile/, so adding a new
+      #                             card above needs no change here.
+      # git diff --staged --quiet -> exits 0 when nothing changed, which short-
+      #                             circuits the commit && push (no empty commits).
       - name: Commit newly generated cards
         run: |
           git config user.name "github-actions[bot]"

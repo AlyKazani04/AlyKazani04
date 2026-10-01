@@ -1,9 +1,39 @@
+# =============================================================================
+# Update README stats / top-langs / streak cards
+# -----------------------------------------------------------------------------
+# WHAT THIS DOES
+#   Regenerates the three "live" cards at the bottom of README.md:
+#     profile/stats.svg       -> overall contribution stats
+#     profile/top-langs.svg   -> most used languages
+#     profile/streak.svg      -> current contribution streak
+#   These change constantly (every push updates the streak), which is why this
+#   file -- unlike generate-repo-cards.yml -- runs on a schedule.
+#
+# KEY DIFFERENCE FROM generate-repo-cards.yml
+#   Pin cards (the project cards) change only when a repo's description or star
+#   count changes -> regenerate on demand.
+#   These three change with every commit -> regenerate daily on cron.
+#
+# SECRET: PAT_TOKEN
+#   A personal access token used instead of the default GITHUB_TOKEN so the
+#   generated cards can see PRIVATE repos (js-practice, musstr, etc.) and so the
+#   workflow can push. If a card suddenly renders empty, check this secret first.
+#
+# TRIGGERS
+#   - daily at 00:00 UTC
+#   - manual dispatch
+#   - any push that touches THIS file
+# =============================================================================
+
 name: Update README cards
 
 on:
+  # 00:00 UTC daily.
   schedule:
-    - cron: "0 0 * * *" # Runs once daily at midnight
+    - cron: "0 0 * * *"
+  # Manual re-run without waiting for tomorrow: Actions tab -> Run workflow.
   workflow_dispatch:
+  # Editing this file re-runs it immediately so you can preview option changes.
   push:
     paths:
       - '.github/workflows/gh-readme-stats.yml'
@@ -18,6 +48,10 @@ jobs:
     steps:
       - uses: actions/checkout@v6
 
+      # NOTE: theme=nord and border_radius are repeated in every `options` string.
+      # The action takes no shared config, so changing the theme means editing all
+      # three of these lines. Same for theme=nord in generate-repo-cards.yml --
+      # keep them in sync by hand or the README ends up visually inconsistent.
       - name: Generate stats card
         uses: stats-organization/github-readme-stats-action@v2
         with:
@@ -34,6 +68,8 @@ jobs:
           path: profile/top-langs.svg
           token: ${{ secrets.PAT_TOKEN }}
 
+      # Different action/project than the one above, so it uses a different
+      # `with` key (options, not card+options) and a pinned @main ref.
       - name: Generate Streak Stats
         uses: DenverCoder1/github-readme-streak-stats@main
         with:
@@ -41,6 +77,8 @@ jobs:
           path: profile/streak.svg
           token: ${{ secrets.PAT_TOKEN }}
 
+      # Same commit pattern as generate-repo-cards.yml: stage all of profile/,
+      # then skip the commit entirely if nothing actually changed.
       - name: Commit cards
         run: |
           git config user.name "github-actions[bot]"
