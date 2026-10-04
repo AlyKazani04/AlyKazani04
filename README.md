@@ -1,9 +1,9 @@
 # 👋 Hi, I’m @AlyKazani04
 
-I am a 3rd year Comp-Sci student at FAST-NUCES, Karachi. I love learning new things and tinkering with stuff. When I'm not learning a new language/framework/concept or setting up local Docker container networks, I'm probably tweaking my system configurations or reading a [murim](https://www.google.com/search?q=Murim) [manhwa](https://www.google.com/search?q=Manhwa).
+I build backend services in Node.js and TypeScript — REST APIs, Postgres schemas, and containerized dev environments. When I'm not learning a new language/framework/concept or setting up local Docker container networks, I'm probably tweaking my system configurations or reading a [murim](https://www.google.com/search?q=Murim) [manhwa](https://www.google.com/search?q=Manhwa).
 
 - 👀 **Interests:** Backend Development & reading manhwas.
-- 🌱 **Currently Learning:** New Backend concepts from random places, CSS Fundamentals.
+- 🌱 **Currently Learning:** Reading **Designing Data Intensive Applications**
 - 📫 **Reach me:** [aly.kazani52@gmail.com](mailto:aly.kazani52@gmail.com) | [LinkedIn](https://www.linkedin.com/in/aly-kazani/) | [X (formerly Twitter)](https://x.com/f4ll3ndev)
 - ⚡ **Fun fact:** My favorite music artist is EVE.
 
@@ -44,47 +44,17 @@ I am a 3rd year Comp-Sci student at FAST-NUCES, Karachi. I love learning new thi
 
 ---
 
-### 🛠️ Technical Skills
+### 🛠️ What I build with
 
-### Languages
+| Stack                               | Where it's used                                                   |
+| :---------------------------------- | :---------------------------------------------------------------- |
+| Node.js, Express, TypeScript        | Lambda — L7/L4 reverse proxy, packet capture                      |
+| PostgreSQL, Prisma ORM              | NoteStack — normalized schema on Neon                             |
+| Docker Compose, Redis               | Lambda — multi-service dev env, capped event log                  |
+| Python, PyTorch-adjacent ML tooling | AI Resume Analyzer — local embeddings via Ollama                  |
+| React, TypeScript                   | Working knowledge — studied hooks and internals, not shipped solo |
 
-<p>
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E" />
-</p>
-
-### Frameworks and Tools
-
-<p>
-  <img src="https://img.shields.io/badge/Node%20js-339933?style=flat&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express%20js-000000?style=flat&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=flat&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/VSCode-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white" />
-  <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=flat&logo=neovim&logoColor=white" />
-</p>
-
-### Databases
-
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white" />
-  <!-- <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" /> -->
-</p>
-
-### OS & Environment
-
-<p>
-  <img src="https://img.shields.io/badge/Omarchy-9ECE6A.svg?style=flat&logo=Omarchy&logoColor=black" />
-  <img src="https://img.shields.io/badge/Hyprland-00a2ff?style=flat&logo=hyprland&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Shell_Script-121011?style=flat&logo=gnu-bash&logoColor=white" />
-</p>
+#### Backend is where I'm strongest; frontend I'm actively building up
 
 ## 📊 Stats
 
